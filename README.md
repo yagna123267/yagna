@@ -46,4 +46,4 @@ route, total_distance = brute_force_tsp(distances)
 print("Shortest Route:", route)
 print("Minimum Distance:", total_distance)
 ```
-##output:![output for](https://github.com/yagna123267/yagna/blob/5de5c908e573debd94c9e31f5996db65e9269196/exp2%20aies.png)
+##output: ![output for](https://github.com/yagna123267/yagna/blob/5de5c908e573debd94c9e31f5996db65e9269196/exp2%20aies.png)
